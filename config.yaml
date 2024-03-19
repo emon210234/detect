@@ -1,0 +1,8 @@
+path: E:\squidGame\code\data #absolute path of the directory
+train: images\train #relative path
+val: images\train #relative path
+
+#Classes
+names:
+  0: triangle
+  1: rectangle
